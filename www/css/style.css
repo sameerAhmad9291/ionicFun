@@ -1,0 +1,70 @@
+/* Empty. Add your own CSS if you like */
+
+.databox {
+    text-align: center;
+    vertical-align: middle;
+    border-top-width: 4px;
+    border-top-style: solid;
+    margin-left: 1px;
+    margin-right: 1px;
+    color: white;
+}
+
+.databox-danger {
+    border-top-color: #f54e62;
+}
+
+.databox.databox-ease {
+    border-top-color: #16a8ab;
+}
+
+.databox-warning {
+    border-top-color: #fab050;
+}
+
+.databox:first-child {
+    margin-left: 0px;
+}
+
+.databox:last-child {
+    margin-right: 0px;
+}
+
+.databox .databox-title {
+    color: #8c8c8c;
+    font-weight: bold;
+    font-size: 60%;
+}
+
+.databox .databox-content {
+    font-size: 100%;
+}
+
+.chambray-bg {
+    background-color: #505a78;
+}
+
+.Chetwode-blue-bg {
+    background-color: #1d253b !important;
+}
+
+.menu .list .item a {
+    background-color: #1d253b !important;
+}
+
+.login-model .title, .login-model .item, .login-model .item .input-label {
+    background-color: #1d253b !important;
+    color: white;
+}
+
+.white{
+    color: white !important;
+}
+
+.spinner svg {
+  width: 19% !important;
+  height: 85px !important;
+}
+.loading{
+	background-color: transparent !important;
+}

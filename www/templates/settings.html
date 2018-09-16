@@ -1,0 +1,24 @@
+<ion-view view-title="Settings">
+    <ion-content>
+		  <a class="item item-icon-left">
+			<i class="icon ion-email"></i>
+			mail
+		  </a>
+		  <a class="item item-icon-left">
+			<i class="icon icon ion-settings"></i>
+			 Acounts
+		  </a>
+
+		  <ion-toggle ng-repeat="item in settingsList"
+                    ng-model="item.checked" 
+                    ng-checked="item.checked">
+          {{ item.text }}
+        </ion-toggle>
+
+		  <a class="item item-icon-left">
+			<i class="icon ion-person-stalker"></i>
+			Friends
+			<span class="badge badge-assertive">1</span>
+		  </a>
+    </ion-content>
+</ion-view>

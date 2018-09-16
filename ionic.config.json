@@ -1,0 +1,16 @@
+{
+  "name": "io.cordova.myapp7fc948",
+  "integrations": {},
+  "gulpDependantTasks": [
+    "sass"
+  ],
+  "gulpStartupTasks": [
+    "watch"
+  ],
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
