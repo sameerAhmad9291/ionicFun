@@ -1,5 +1,10 @@
 # Ionic Fun
 
+App Samples
+![alt text](https://github.com/sameerAhmad9291/ionicFun/blob/master/appImages/Analytics.PNG)
+![alt text](https://github.com/sameerAhmad9291/ionicFun/blob/master/appImages/Dashboard.PNG)
+![alt text](https://github.com/sameerAhmad9291/ionicFun/blob/master/appImages/login.PNG)
+
 An application using Apache Cordova, Ionic v1 Framework, Javascript, AngularJs and ui.router. Create some sample using Highcharts and ng-highchart.
 
 ## Requirements
