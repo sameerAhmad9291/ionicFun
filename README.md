@@ -1,5 +1,8 @@
 # Ionic Fun
-An application using Apache Cordova, Ionic v1 Framework, Javascript, AngularJs and ui.router. Create some sample using Highcharts and ng-highchart.
+Keep going toward new Tech :) 
+
+# Description
+
 
 ## App Images
 ![alt text](https://github.com/sameerAhmad9291/ionicFun/blob/master/appImages/Analytics.PNG)
