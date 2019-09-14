@@ -1,5 +1,5 @@
 # Ionic Fun
-Keep going toward new Tech :) 
+ App is create for demo purpose.
 
 # Description
 
